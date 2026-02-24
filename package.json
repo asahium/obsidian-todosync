@@ -1,0 +1,26 @@
+{
+  "name": "obsidian-todosync",
+  "version": "1.0.0",
+  "description": "Sync Obsidian tasks with @{date} deadlines to Apple Calendar on macOS",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "keywords": [
+    "obsidian",
+    "apple-calendar",
+    "tasks",
+    "sync",
+    "macos"
+  ],
+  "author": "Danila Biktimirov",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "builtin-modules": "^4.0.0",
+    "esbuild": "^0.24.0",
+    "obsidian": "latest",
+    "typescript": "^5.7.0"
+  }
+}
