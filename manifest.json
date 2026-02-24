@@ -5,6 +5,6 @@
   "minAppVersion": "1.0.0",
   "description": "Sync Obsidian tasks with @{date} deadlines to Apple Calendar on macOS",
   "author": "Danila Biktimirov",
-  "authorUrl": "https://github.com/danila-biktimirov",
+  "authorUrl": "https://github.com/asahium",
   "isDesktopOnly": true
 }

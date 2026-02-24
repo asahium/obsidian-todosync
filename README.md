@@ -59,7 +59,7 @@ Sync triggers:
 
 ### Manual
 
-1. Download `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/danila-biktimirov/obsidian-todosync/releases/latest)
+1. Download `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/asahium/obsidian-todosync/releases/latest)
 2. Create a folder `todosync` inside your vault's `.obsidian/plugins/` directory
 3. Place the three files in that folder
 4. Restart Obsidian and enable the plugin in **Settings → Community plugins**
@@ -67,7 +67,7 @@ Sync triggers:
 ## Building from source
 
 ```bash
-git clone https://github.com/danila-biktimirov/obsidian-todosync.git
+git clone https://github.com/asahium/obsidian-todosync.git
 cd obsidian-todosync
 npm install
 npm run build
